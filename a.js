@@ -1,3 +1,3 @@
-const a = 100;
+const a = 1;
 const b = 10;
 console.log(a);
