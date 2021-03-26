@@ -1,2 +1,2 @@
-const a = 1;
+const a = 00;
 console.log(a);
